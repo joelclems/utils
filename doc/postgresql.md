@@ -5,7 +5,7 @@
 
 ### pb add column not null error:
 
-[lien Stack OververFlow](https://stackoverflow.com/questions/512451/how-can-i-add-a-column-to-a-postgresql-database-that-doesnt-allow-nulls)
+* [lien Stack OververFlow](https://stackoverflow.com/questions/512451/how-can-i-add-a-column-to-a-postgresql-database-that-doesnt-allow-nulls)
 
     
 ```
